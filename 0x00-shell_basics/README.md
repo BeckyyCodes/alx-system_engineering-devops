@@ -1,1 +1,1 @@
-A script that prints the aboslute path name of the current working directory
+A script that changes the working directory to the user’s home directory.
